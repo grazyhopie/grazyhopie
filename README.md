@@ -15,6 +15,8 @@
   <a href="https://www.linkedin.com/in/grazielly-vitoria-faria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 10px" target="_blank"></a> 
  </div>
  
+ <img align="right" alt="grazy-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/966089584515645490/1072724844124307476/myGif2.gif">
+
  ### Tecnologias que mais utilizo:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
